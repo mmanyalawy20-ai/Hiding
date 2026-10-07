@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">حاسبة</string>
+    <string name="home_name">الشاشة الرئيسية</string>
+    <style name="Theme.Khazna" parent="android:Theme.Material.NoActionBar" />
+    <style name="Theme.Khazna.Home" parent="android:Theme.Material.Wallpaper.NoTitleBar" />
+</resources>
